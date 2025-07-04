@@ -4,6 +4,7 @@ A simple, responsive habit tracking app that helps users stay consistent and mot
 
 ---
 
+
 ## 📖 Table of Contents
 
 - [Description](#description)
