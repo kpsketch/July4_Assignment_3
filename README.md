@@ -3,7 +3,7 @@
 A simple, responsive habit tracking app that helps users stay consistent and motivated by visualizing their daily and weekly habits.
 
 ---
-
+![alt text](BC526F9E-F5F8-4542-8091-44ADF695820A-1.jpeg)
 
 ## 📖 Table of Contents
 
