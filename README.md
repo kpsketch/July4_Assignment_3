@@ -62,7 +62,7 @@ The Habit Tracker Web App allows users to register, set personalized goals, and 
 
 ## 👥 Contributors
 
-- [@yourusername](https://github.com/yourusername)
+- [@kpsketch](https://github.com/kpsketch)
 - Add your name here by contributing!
 
 ---
